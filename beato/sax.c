@@ -2,9 +2,9 @@
 #include "config.h"
 #endif
 
+#include <jkweb/common.h>
 #include <beato/sax.h>
 #include <float.h>
-#include <jkweb/common.h>
 #include <jkweb/hash.h>
 #include <jkweb/linefile.h>
 #include <math.h>

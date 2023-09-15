@@ -1,8 +1,7 @@
-#include <beato/bbiAugment.h>
+#include <jkweb/common.h>
 #include <jkweb/bPlusTree.h>
 #include <jkweb/bbiFile.h>
 #include <jkweb/cirTree.h>
-#include <jkweb/common.h>
 #include <jkweb/hash.h>
 #include <jkweb/hmmstats.h>
 #include <jkweb/linefile.h>
@@ -10,6 +9,7 @@
 #include <jkweb/sig.h>
 #include <jkweb/udc.h>
 #include <jkweb/zlibFace.h>
+#include <beato/bbiAugment.h>
 
 struct bbiFile* bbiFileOpenWithDir(char* fileName, bits32 sig, char* typeName, char* udcDir)
 /* same (mostly) as bbiFileOpen in bbiFile.c, but allows setting the temporary dir */

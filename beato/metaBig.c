@@ -2,13 +2,13 @@
 #include "config.h"
 #endif
 
+#include <jkweb/common.h>
 #include <beato/bbiAugment.h>
 #include <beato/bigs.h>
 #include <beato/metaBig.h>
 #include <jkweb/basicBed.h>
 #include <jkweb/bigBed.h>
 #include <jkweb/bigWig.h>
-#include <jkweb/common.h>
 #include <jkweb/hash.h>
 #include <jkweb/linefile.h>
 #include <jkweb/localmem.h>

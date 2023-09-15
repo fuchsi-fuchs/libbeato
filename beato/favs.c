@@ -5,8 +5,8 @@
 /* library that provides some functionality to the utilities for keeping track of */
 /* files and URLs easily */
 
-#include <beato/favs.h>
 #include <jkweb/common.h>
+#include <beato/favs.h>
 #include <jkweb/hash.h>
 #include <jkweb/linefile.h>
 

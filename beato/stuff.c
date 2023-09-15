@@ -2,8 +2,8 @@
 #include "config.h"
 #endif
 
-#include <beato/stuff.h>
 #include <jkweb/common.h>
+#include <beato/stuff.h>
 
 #define NANUM sqrt(-1)
 
